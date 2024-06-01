@@ -57,9 +57,8 @@ body {
 	} 
 } 
 
-/* Main Hero Section Styles */
 .hero { 
-	background-image: url('./Images/heroImg3.avif'); 
+	background-image: url(https://www.webzfusion.com/wp-content/uploads/2015/04/portfolio-background-4-300x141.gif); 
 	background-repeat: no-repeat; 
 	background-size: 100% 100%; 
 	width: 100%; 
@@ -104,7 +103,8 @@ body {
 } 
 
 /* Portfolio section styles */
-.portfolio { 
+.portfolio {
+	 
 	margin: 4.8rem 0; 
 	padding: 0 5rem; 
 } 
